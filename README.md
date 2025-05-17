@@ -55,9 +55,10 @@ Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - 
   * Base para um TCC interdisciplinar (Física + Computação + Educação).
 
 ## 🚀 Por que é bacana?
-  * Usa IA com valor educacional real.
-  * Estimula pensamento computacional e autonomia.
-  * Pode ser implementado em ciclos pequenos e escalado com mais IA no futuro.
+* Combina a aplicação prática da física com técnicas de IA aplicada para educação - Usa IA com valor educacional real.
+* Promove aprendizado ativo, onde os alunos interagem com a solução e acompanham o passo a passo do raciocínio - Estimula pensamento computacional e autonomia.
+* Pode ser expandido para abarcar outros tópicos de física ou mesmo problemas de algoritmos, dada sua estrutura modular - Pode ser implementado em ciclos pequenos e escalado com mais IA no futuro.
+* Essa abordagem permite a personalização da experiência de aprendizado, incentivando a autoconfiança dos estudantes ao apresentar soluções e explicações claras.
 
 ## ✍️ Benefícios para os Estudantes
   * Aprendizado personalizado com múltiplas perspectivas do mesmo problema
