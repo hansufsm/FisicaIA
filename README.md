@@ -77,3 +77,8 @@ Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - 
 Este projeto é especialmente relevante para estudantes, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
 
 ---
+![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
+
+
+
+---
