@@ -37,9 +37,9 @@ Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - 
 ## 🛠️Implementação Técnica
 * Linguagem: Python
 * Modelos: Gemini API para cada agente
-* Comunicação: Estrutura de mensagens entre agentes usando filas ou eventos
-* Interface: Aplicação web simples usando Streamlit ou Gradio
-* Armazenamento: Base de conhecimento local para problemas comuns e soluções
+* Comunicação: Estrutura de mensagens entre agentes
+* Interface: Notebook Google Colab
+* Armazenamento: Base de conhecimento local para problemas comuns e soluções (planejado)
 
 ## ⚙️ Fluxo de Trabalho
 * O estudante submete um problema de física
