@@ -11,11 +11,6 @@
 
 ## ✨ Tecnologias
 
-**Frontend**  
-#[![Vite](https://img.shields.io/badge/Vite-4.4-646CFF.svg?logo=vite)](https://vitejs.dev/)
-#[![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react)](https://reactjs.org/)
-#[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
-
 **Backend**  
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg?logo=python)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-1.0-4285F4.svg?logo=google)](https://ai.google.dev/)
