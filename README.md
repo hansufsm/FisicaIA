@@ -79,7 +79,7 @@
  3. Cole sua chave ao rodar o notebook e comece a estudar.
 
 ## 📄 Considerações Éticas
-O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
+O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-lhes interação.
 
 ## 👨‍💻 Autor
   * Feito com ❤️ por Hans Rogério Zimermann
