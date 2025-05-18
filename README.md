@@ -67,12 +67,17 @@
   * Exposição a diferentes métodos de solução
   * Preparação para problemas do mundo real
 
-
 ## ✨ Aspectos Inovadores 🛡️
 * Abordagem multi-agente para decomposição de problemas complexos
 * Personalização das explicações baseada no perfil do estudante
 * Integração de conhecimento teórico com aplicações práticas
 * Possibilidade de expansão para outras disciplinas STEM
+
+## 🚀 Como testar
+1. Abra o notebook no Colab:
+  * esquadrao_fisicaia.ipynb
+2. Gere sua chave no Google AI Studio
+3. Cole sua chave ao rodar o notebook e comece a estudar.
 
 ## 📄 Considerações Éticas
 O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
