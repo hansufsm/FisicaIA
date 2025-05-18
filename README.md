@@ -10,36 +10,36 @@
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
 
-1. Agente Interpretador de Problemas
+1. **Agente Interpretador de Problemas**
   * Analisa o enunciado do problema
   * Identifica as variáveis, constantes e equações relevantes
   * Classifica o tipo de problema (eletrostática, circuitos, magnetismo, etc.)
   * Sugere abordagens de resolução
 
-2. Agente Solucionador Matemático
+2. **Agente Solucionador Matemático**
   * Desenvolve a solução matemática passo a passo
   * Realiza cálculos e manipulações algébricas
   * Verifica unidades e consistência dimensional
   * Fornece resultados numéricos precisos
 
-3. Agente Visualizador
+3. **Agente Visualizador**
   * Cria representações visuais do problema (diagramas de circuitos, campos, etc.)
   * Gera gráficos interativos para visualizar relações entre variáveis
   * Produz animações simples para demonstrar conceitos dinâmicos
   * Adapta visualizações para diferentes estilos de aprendizagem
 
-4. Agente Contextualizador
+4. **Agente Contextualizador**
   * Conecta o problema a aplicações do mundo real
   * Fornece exemplos de tecnologias relacionadas
   * Sugere experimentos práticos que os estudantes podem realizar
   * Relaciona o problema com outros tópicos da física
 
 ## 🛠️Implementação Técnica
-* Linguagem: Python
-* Modelos: Gemini API para cada agente
-* Comunicação: Estrutura de mensagens entre agentes
-* Interface: Notebook Google Colab
-* Armazenamento: Base de conhecimento local para problemas comuns e soluções (planejado)
+* **Linguagem**: Python
+* **Modelos**: Gemini API para cada agente
+* **Comunicação**: Estrutura de mensagens entre agentes
+* **Interface**: Jupiter Notebook e Google Colab
+* **Armazenamento**: Base de conhecimento local para problemas comuns e soluções (planejado)
 
 ## ⚙️ Fluxo de Trabalho
 * O estudante submete um problema de física
