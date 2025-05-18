@@ -1,12 +1,24 @@
 # FisicaIA
-# 🎓 Projeto: Agentes IA para Estudantes Universitários
-## 💡 Idéia: Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# 🎓 Projeto: Agentes IA para Estudantes Universitários
+### 💡 Idéia: Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
 ![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
 
 **🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 
 >Este projeto é especialmente relevante para estudantes em aprendizagem, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
+
+## ✨ Tecnologias
+
+**Frontend**  
+#[![Vite](https://img.shields.io/badge/Vite-4.4-646CFF.svg?logo=vite)](https://vitejs.dev/)
+#[![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react)](https://reactjs.org/)
+#[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
+
+**Backend**  
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg?logo=python)](https://www.python.org/)
+[![Gemini API](https://img.shields.io/badge/Gemini_API-1.0-4285F4.svg?logo=google)](https://ai.google.dev/)
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
 
