@@ -48,7 +48,6 @@
 * O Agente Visualizador cria representações visuais
 * O Agente Contextualizador adiciona aplicações práticas
 
-
 ## 📌 Aplicações possíveis:
   * Ferramenta de apoio para seus alunos.
   * Extensão para projetos de iniciação científica.
@@ -74,10 +73,10 @@
 * Possibilidade de expansão para outras disciplinas STEM
 
 ## 🚀 Como testar
-1. Abra o notebook no Colab:
-  * esquadrao_fisicaia.ipynb
-2. Gere sua chave no Google AI Studio
-3. Cole sua chave ao rodar o notebook e comece a estudar.
+ 1. Abra o notebook no Colab:
+`esquadrao_fisicaia.ipynb`
+ 2. Gere sua chave no [Google AI Studio](https://aistudio.google.com/app/apikey)
+ 3. Cole sua chave ao rodar o notebook e comece a estudar.
 
 ## 📄 Considerações Éticas
 O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
