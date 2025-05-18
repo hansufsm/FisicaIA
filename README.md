@@ -7,7 +7,8 @@
 
 
 **🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
-Este projeto é especialmente relevante para estudantes em aprendizagem, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
+
+>Este projeto é especialmente relevante para estudantes em aprendizagem, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
 
