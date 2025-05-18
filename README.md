@@ -7,6 +7,7 @@
 
 
 **🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
+Este projeto é especialmente relevante para estudantes em aprendizagem, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
 
@@ -82,10 +83,10 @@
 O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
 
 ## 👨‍💻 Autor
-Feito com ❤️ por Hans Rogério Zimermann
-Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
+  Feito com ❤️ por Hans Rogério Zimermann
+  Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
 
-Este projeto é especialmente relevante para estudantes, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
+
 
 ---
 
