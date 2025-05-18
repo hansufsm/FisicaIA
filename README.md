@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
 
 
-**🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, especialmente em eletricidade e magnetismo, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
+**🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
 
@@ -73,6 +73,13 @@
 * Personalização das explicações baseada no perfil do estudante
 * Integração de conhecimento teórico com aplicações práticas
 * Possibilidade de expansão para outras disciplinas STEM
+
+## 📄 Considerações Éticas
+O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
+
+## 👨‍💻 Autor
+Feito com ❤️ por Hans Rogério Zimermann
+Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
 
 Este projeto é especialmente relevante para estudantes, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
 
