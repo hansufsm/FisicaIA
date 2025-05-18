@@ -1,10 +1,8 @@
 # FisicaIA
 # 🎓 Projeto: Agentes IA para Estudantes Universitários
 ## 💡 Idéia: Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
----
 
 ![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
-
 
 **🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 
@@ -84,14 +82,7 @@
 O **FisicaAI** não coleta dados e não tenta substituir profissionais da educação. Seu objetivo é ser uma ferramenta útil de estudos para os estudantes, permitindo-les interação.
 
 ## 👨‍💻 Autor
-  Feito com ❤️ por Hans Rogério Zimermann
-  Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
-
-
-
----
-
-
-
+  * Feito com ❤️ por Hans Rogério Zimermann
+  * Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
 
 ---
