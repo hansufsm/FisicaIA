@@ -1,14 +1,14 @@
 # FisicaIA
-Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
-
 # 🎓 Projeto: Agentes IA para Estudantes Universitários
+## 💡 Idéia: Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
 ---
 
-## 💡 Proposta: Sistema Colaborativo de Resolução de Problemas Físicos (Esquadrão Física IA)
+![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
+
+
 **🎯Objetivo**: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, especialmente em eletricidade e magnetismo, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 
 ## 🧠 Estrutura dos Agentes (4 agentes especializados)
-
 
 1. Agente Interpretador de Problemas
   * Analisa o enunciado do problema
@@ -77,7 +77,7 @@ Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - 
 Este projeto é especialmente relevante para estudantes, pois combina tecnologia avançada (IA) com necessidades educacionais concretas, além de ser escalável e poder se tornar uma ferramenta valiosa para o ensino de física em nível universitário.
 
 ---
-![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
+
 
 
 
