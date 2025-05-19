@@ -100,7 +100,7 @@ O **FisicaAI** não coleta dados e não tenta substituir profissionais da educa�
 
 ---
 
-## Aprimoramento | to do
+## 🧱 Próximos passos | Aprimoramento colaborativo 😶‍🌫️🧠
 
 - Contexto Histórico (Breve) (1 parágrafo)
 - Conclusão (1 parágrafo)
