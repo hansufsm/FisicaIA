@@ -99,3 +99,11 @@ O **FisicaAI** não coleta dados e não tenta substituir profissionais da educa�
   * Projeto criado durante a Imersão IA Alura + Google (Maio/2025)
 
 ---
+
+## Aprimoramento | to do
+
+- Contexto Histórico (Breve) (1 parágrafo)
+- Conclusão (1 parágrafo)
+- Referências Bibliográficas Acadêmicas (3)
+- Front-end (HTML+CSS)
+
