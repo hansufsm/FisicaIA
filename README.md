@@ -1,7 +1,8 @@
 # FisicaIA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# 🎓 Projeto: Agentes IA para Estudantes Universitários [Se gostou, me ajude #📣┇votação  no Discord ](https://discord.com/channels/1369193715989614684/1369193716434337849/1373398748708999238)
+# 🎓 Projeto: Agentes IA para Estudantes Universitários 
+[Se gostou, me ajude #📣┇votação  no Discord ](https://discord.com/channels/1369193715989614684/1369193716434337849/1373398748708999238)
 #### 💡 Idéia: Sistema Colaborativo de Resolução de Problemas Físicos com 4 Agentes (🤖 - Esquadrão Física IA)
 ![image](https://github.com/user-attachments/assets/8215279b-d1be-40d6-b5aa-ea123739cab1)
 
